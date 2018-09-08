@@ -22,7 +22,9 @@ Python 3.5 or higher version
 
 ### Warning!
 ~~~
-Make sure the source & destination folders already exists before executing the program or else all your randomly selected files are gonna be compiled into one single ureadable file which cannot be reverted back.
+Make sure the source & destination folders already exists before executing the program or 
+else all your randomly selected files are gonna be compiled into one single ureadable file 
+which cannot be reverted back.
 ~~~
 
 ## Versioning
@@ -32,12 +34,12 @@ This code is updated and it's latest version number is 001.01.00.00
 ~~~
 
 ## Authors
-* **The_Phoenix_777_TDW** - *First Project* [THE_PHOENIX_777_TDW](https://github.com/THE-PHOENIX-777-TDW)
+* **The_Phoenix_777_TDW** - *First Project* - [THE_PHOENIX_777_TDW](https://github.com/THE-PHOENIX-777-TDW)
 
 ## License
 This project is licenced under GNU General Public License 2.0
 Check out the License [GNU GPL 2.0](LICENSE.md)
 
 ## Acknowledgements
-Thanks to all the community memebers of various communities for their brilliant ideas on the problem.
+Thanks to all the community members of various communities for their brilliant ideas on the problem.
 "Focus on solutions more than problem"
