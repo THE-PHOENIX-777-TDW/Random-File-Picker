@@ -37,8 +37,8 @@ This code is updated and it's latest version number is 001.01.00.00
 * **The_Phoenix_777_TDW** - *First Project* - [THE_PHOENIX_777_TDW](https://github.com/THE-PHOENIX-777-TDW)
 
 ## License
-This project is licenced under GNU General Public License 2.0
-Check out the License [GNU GPL 2.0](LICENSE.md)
+This project is licenced under GNU General Public License 2.0. 
+Check out the License [GNU GPL 2.0](https://github.com/THE-PHOENIX-777-TDW/Random-File-Picker/blob/master/LICENSE)
 
 ## Acknowledgements
 Thanks to all the community members of various communities for their brilliant ideas on the problem.
