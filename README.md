@@ -41,5 +41,5 @@ This project is licenced under GNU General Public License 2.0.
 Check out the License [GNU GPL 2.0](https://github.com/THE-PHOENIX-777-TDW/Random-File-Picker/blob/master/LICENSE)
 
 ## Acknowledgements
-Thanks to all the community members of different communities for their brilliant ideas for this project.
+Thanks to all the community members of different communities for their brilliant ideas on this project.
 
