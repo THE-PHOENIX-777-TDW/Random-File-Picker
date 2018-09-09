@@ -11,11 +11,11 @@ Python 3.5 or higher version
 
 ### How it works (RFP.py) :-
 ~~~
- Step 1 :- Enter the number of files you wish to select.
+ Step 1 :- Enter the Source directory to select files from.
  
- Step 2 :- Enter the Source directory to select files from.
+ Step 2 :- Enter the Destination directory to move the files to.
  
- Step 3 :- Enter the Destination directory to move the files to.
+ Step 3 :- Enter the Number of files you wish to select.
  
  Step 4 :- Details of the transfer will be printed listing the affected files.
 ~~~
@@ -41,5 +41,5 @@ This project is licenced under GNU General Public License 2.0.
 Check out the License [GNU GPL 2.0](https://github.com/THE-PHOENIX-777-TDW/Random-File-Picker/blob/master/LICENSE)
 
 ## Acknowledgements
-Thanks to all the community members of various communities for their brilliant ideas on the problem.
-"Focus on solutions more than problem"
+Thanks to all the community members of different communities for their brilliant ideas for this project.
+
