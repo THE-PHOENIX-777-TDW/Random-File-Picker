@@ -35,7 +35,7 @@ This code is updated and it's latest version number is 001.01.00.00
 
 ## Contributors
 If you wish to contribute you can submit a request for the same. 
-Please go through the contribution criteria by refering [Contribution.md](https://github.com/THE-PHOENIX-777-TDW/Random-File-Picker/blob/master/CONTRIBUTING.md)
+Please go through the contribution criteria by refering [Contribution.md](https://github.com/THE-PHOENIX-777-TDW/Random-File-Picker/blob/master/CONTRIBUTION.md)
 
 ## Authors
 * **The_Phoenix_777_TDW** - *First Project* - [THE_PHOENIX_777_TDW](https://github.com/THE-PHOENIX-777-TDW)
