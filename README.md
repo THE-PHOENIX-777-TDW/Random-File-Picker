@@ -30,7 +30,7 @@ which cannot be reverted back.
 ## Versioning
 We use a custom versioning system called Extended Versioning System.
 ~~~
-This code is updated and it's latest version number is 001.01.00.00
+This code is updated and it's latest version number is 2.2.1.0
 ~~~
 
 ## Contributors
