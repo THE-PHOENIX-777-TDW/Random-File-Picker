@@ -9,7 +9,7 @@ Everything you need to start running up the project from build to end.
 Python 3.5 or higher version
 ~~~
 
-### How it works (RFP.py) :-
+### How it works (Random_File_Picker.py) :-
 ~~~
  Step 1 :- Enter the Source directory to select files from.
  
