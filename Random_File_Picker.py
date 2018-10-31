@@ -3,7 +3,7 @@ import os, random, shutil, sys
 #Prompting user to enter number of files to select randomly along with directory
 source=input("Enter the Source Directory : ")
 dest=input("Enter the Destination Directory : ")
-no_of_files=int(input("Enter The Number of Files To Select : "))
+no_of_files=int(input("How many files do you wish to Select : "))
 
 print("%"*25+"{ Details Of Transfer }"+"%"*25)
 print("\n\nList of Files Moved to IN PROCESS %s :-"%(dest))
